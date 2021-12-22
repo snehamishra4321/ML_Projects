@@ -1,5 +1,3 @@
-package ca.uwaterloo.cs451.project
-
 import org.apache.spark._
 import org.apache.spark.graphx._
 import org.apache.spark.rdd.RDD
